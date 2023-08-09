@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - GemUI
+  - Stats
+  - HealthUI
+  - CoolDown
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - Ignore
+  - PlayerStats
+  - Enemy
+  - EnemyAttack
+  - PlayerAttack
+  - Destructible
+  - Ladder
+  - Bullet
+  - EnemyFly
+  - Bomb
+  - Heart
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 1785094707
+    locked: 0
+  - name: MiddleGround
+    uniqueID: 3272271371
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1020529331
+    locked: 0
+  - name: Enemy
+    uniqueID: 2621302627
+    locked: 0
+  - name: Player
+    uniqueID: 4293677983
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2454776581
+    locked: 0
